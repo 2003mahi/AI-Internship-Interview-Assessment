@@ -200,7 +200,7 @@ The Patient Flow Management System successfully addresses all requirements from 
 
 ---
 
-**Developed by**: Mahesh  
+**Developed by**: Mahidhar  
 **Date**: January 2026  
 **Assessment**: #1 - Managing Peak Hour Patient Flow at Urban Multi-Specialty Clinic  
 **Repository**: https://github.com/2003mahi/AI-Internship-Interview-Assessment
