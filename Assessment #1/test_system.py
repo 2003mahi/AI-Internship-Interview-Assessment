@@ -177,7 +177,7 @@ class TestWaitTimePredictionModel(unittest.TestCase):
         
         df = pd.DataFrame(data)
         
-        # Add more samples for proper training (reduced from 50 to 10 iterations)
+        # Add more samples for proper training
         for i in range(10):
             df = pd.concat([df, df], ignore_index=True)
         
