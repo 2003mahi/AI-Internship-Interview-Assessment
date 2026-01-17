@@ -464,7 +464,7 @@ This project is developed for educational and assessment purposes.
 
 ## Contact & Support
 
-**Developer**: Mahesh  
+**Developer**: Mahidhar A
 **Repository**: https://github.com/2003mahi/AI-Internship-Interview-Assessment  
 **Assessment**: #1 - Managing Peak Hour Patient Flow at Urban Multi-Specialty Clinic
 
